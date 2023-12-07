@@ -1,5 +1,13 @@
 # svelte
 
+## 5.0.0-next.21
+
+### Patch Changes
+
+- chore: refactor props handling ([#9826](https://github.com/sveltejs/svelte/pull/9826))
+
+- fix: better handle unowned derived signals ([#9832](https://github.com/sveltejs/svelte/pull/9832))
+
 ## 5.0.0-next.20
 
 ### Patch Changes
